@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652537178 source:c:\users\asyrafshrlnzm\desktop\ppsm cafe workspace\ppsm cafe system\main.cpp
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<windows.h>
+

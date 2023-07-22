@@ -1,0 +1,10 @@
+
+		Math Cafe
+Menu Cafe 	 : 	2
+Type of Menu 	 : 	Math Delight Beta
+No. of Order 	 : 	2
+Total (RM) 	 : 	41.8
+Cash (RM) 	 : 	50
+Balance (RM) 	 : 	8.2
+
+Thank You. Please come again!
